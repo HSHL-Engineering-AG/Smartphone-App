@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="Icon_Plant.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8"
+     inkscape:cx="30.284357"
+     inkscape:cy="34.354274"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     width="256px"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true"
+     inkscape:snap-global="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect22"
+       style="fill:#ffffff;stroke:#00bb2e;stroke-width:0;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="M 3.2302937,8.4768372e-7 A 2.1279078,0.79068225 46.346791 0 0 3.2044557,5.1754768e-4 2.1279078,0.79068225 46.346791 0 0 2.9533082,0.09405155 2.1279078,0.79068225 46.346791 0 0 3.8504111,2.1797123 2.1279078,0.79068225 46.346791 0 0 5.8916302,3.1734501 2.1279078,0.79068225 46.346791 0 0 4.9945273,1.0877893 2.1279078,0.79068225 46.346791 0 0 3.2302937,8.4768372e-7 Z M 6.35,0.56895835 a 0.35060284,0.35060284 0 0 0 -0.3503663,0.350883 V 7.0905242 H 2.778125 A 0.42088728,0.42088723 0 0 0 2.3574788,7.5111702 0.42088728,0.42088723 0 0 0 2.778125,7.9318162 L 3.4395833,12.7 H 9.2604166 L 9.9218749,7.9318162 A 0.42088728,0.42088723 0 0 0 10.342521,7.5111702 0.42088728,0.42088723 0 0 0 9.9218749,7.0905242 H 9.9063719 6.7003662 V 0.91984135 A 0.35060284,0.35060284 0 0 0 6.35,0.56895835 Z M 9.5668578,1.5647631 A 0.79068225,2.1279078 46.34679 0 0 7.7886718,2.569353 0.79068225,2.1279078 46.34679 0 0 6.7949341,4.6100552 0.79068225,2.1279078 46.34679 0 0 8.8805948,3.7129524 0.79068225,2.1279078 46.34679 0 0 9.8743325,1.6722501 0.79068225,2.1279078 46.34679 0 0 9.5668578,1.5647631 Z M 3.2406291,3.2680182 A 2.1279078,0.79068225 46.346791 0 0 2.953308,3.3620692 2.1279078,0.79068225 46.346791 0 0 3.8504109,5.4472133 2.1279078,0.79068225 46.346791 0 0 5.89163,6.440951 2.1279078,0.79068225 46.346791 0 0 4.9945271,4.3558071 2.1279078,0.79068225 46.346791 0 0 3.2406291,3.2680182 Z" />
+  </g>
+</svg>

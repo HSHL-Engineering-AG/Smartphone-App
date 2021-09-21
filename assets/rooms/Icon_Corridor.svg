@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="1024"
+   viewBox="0 0 270.93333 270.93333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="Icon_Corridor.svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect918"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0.52916667,0,1 @ F,0,0,1,0,0.52916667,0,1 @ F,0,0,1,0,0.52916667,0,1 @ F,0,0,1,0,0.52916667,0,1"
+       unit="px"
+       method="arc"
+       mode="F"
+       radius="2"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1007"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0.52916667,0,1 @ F,0,0,1,0,0.52916667,0,1 @ F,0,0,1,0,0.52916667,0,1 @ F,0,0,1,0,0.52916667,0,1"
+       unit="px"
+       method="arc"
+       mode="F"
+       radius="2"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-33.14377"
+     inkscape:cy="536.84828"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:bbox-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-page="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-7"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g120"
+       transform="matrix(4.6763527,0,0,4.6763527,-136.73604,-571.55334)">
+      <path
+         id="rect884"
+         style="fill:#c99466;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         d="m 62.680778,131.14829 v 40.08437 h 2.226908 V 133.3752 h 20.042187 v 37.85746 h 2.226905 V 131.14829 H 84.949873 64.907686 Z"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#82552f;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect894"
+         width="20.042187"
+         height="37.857468"
+         x="64.907692"
+         y="133.3752"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#6b4626;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect902"
+         width="17.815277"
+         height="22.269096"
+         x="66.021133"
+         y="134.48865"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#6b4626;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect906"
+         width="17.815277"
+         height="12.248002"
+         x="66.021149"
+         y="157.87117"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#dab625;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect910"
+         width="2.2269092"
+         height="5.5672736"
+         x="82.054893"
+         y="152.30389"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <ellipse
+         style="fill:#b6971b;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="path914"
+         cx="83.16835"
+         cy="156.75772"
+         rx="0.66807246"
+         ry="0.66807252"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         style="fill:#b6971b;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect916"
+         width="3.3403637"
+         height="1.1134541"
+         x="80.384697"
+         y="153.41736"
+         inkscape:path-effect="#path-effect918"
+         sodipodi:type="rect"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384"
+         d="m 80.913864,153.41736 h 2.28203 a 0.52916667,0.52916667 45 0 1 0.529167,0.52917 v 0.0551 a 0.52916667,0.52916667 135 0 1 -0.529167,0.52916 h -2.28203 a 0.52916667,0.52916667 45 0 1 -0.529167,-0.52916 v -0.0551 a 0.52916667,0.52916667 135 0 1 0.529167,-0.52917 z" />
+      <path
+         id="path993"
+         style="fill:#c99466;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         d="m 29.239889,131.14829 v 40.08437 h 2.226907 V 133.3752 h 20.042188 v 37.85746 h 2.226907 V 131.14829 H 51.508984 31.466796 Z"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#82552f;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect995"
+         width="20.042187"
+         height="37.857468"
+         x="31.466803"
+         y="133.37518"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#6b4626;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect997"
+         width="17.815277"
+         height="22.269096"
+         x="32.580246"
+         y="134.48865"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#6b4626;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect999"
+         width="17.815277"
+         height="12.248002"
+         x="32.580261"
+         y="157.87115"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#dab625;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect1001"
+         width="2.2269092"
+         height="5.5672736"
+         x="48.614002"
+         y="152.30389"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <ellipse
+         style="fill:#b6971b;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="ellipse1003"
+         cx="49.727463"
+         cy="156.75771"
+         rx="0.66807246"
+         ry="0.66807252"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         style="fill:#b6971b;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="path1005"
+         width="3.3403637"
+         height="1.1134541"
+         x="46.943821"
+         y="153.41734"
+         inkscape:path-effect="#path-effect1007"
+         sodipodi:type="rect"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384"
+         d="m 47.472988,153.41734 h 2.28203 a 0.52916667,0.52916667 45 0 1 0.529167,0.52917 v 0.0551 a 0.52916667,0.52916667 135 0 1 -0.529167,0.52917 h -2.28203 a 0.52916667,0.52916667 45 0 1 -0.529167,-0.52917 v -0.0551 a 0.52916667,0.52916667 135 0 1 0.529167,-0.52917 z" />
+      <path
+         id="path928"
+         style="fill:#785331;fill-opacity:1;stroke:#323756;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         d="m 59.910336,158.15525 a 0.34281951,0.34281949 0 0 0 -0.227655,0.0947 l -2.65e-4,-2.6e-4 -0.0087,0.009 -1.784072,1.83395 v 1.58789 l -1.287584,-1.32341 a 0.34281951,0.34281949 0 0 0 -0.01405,-0.0147 0.34281951,0.34281949 0 0 0 -0.239368,-0.0974 0.34281951,0.34281949 0 0 0 -0.342821,0.34283 0.34281951,0.34281949 0 0 0 0.09106,0.233 l 1.792775,1.84299 v 2.57115 a 0.34281946,0.17140955 0 0 0 0.34282,0.17142 0.34281946,0.17140955 0 0 0 0.342818,-0.17142 v -1.12923 l 1.792777,-1.84299 -7.94e-4,-5.3e-4 a 0.34281951,0.34281949 0 0 0 0.105122,-0.24673 0.34281951,0.34281949 0 0 0 -0.342818,-0.34282 0.34281951,0.34281949 0 0 0 -0.2618,0.12119 l -1.29227,1.32877 v -2.75127 l 1.588217,-1.63275 7.94e-4,-8e-4 a 0.34281951,0.34281949 0 0 0 7.94e-4,-7.9e-4 l 0.0084,-0.009 -2.64e-4,-2.6e-4 a 0.34281951,0.34281949 0 0 0 0.08838,-0.22933 0.34281951,0.34281949 0 0 0 -0.342829,-0.34281 0.34281951,0.34281949 0 0 0 -0.0087,0 z"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         style="fill:#3d9d36;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 55.912286,160.90019 c 0,0 0.609306,0.49213 -0.02916,1.29706 -0.638463,0.80493 -2.52709,1.22622 -2.52709,1.22622 0,0 -0.05127,-1.58485 0.876198,-2.40594 0.927464,-0.82109 1.680049,-0.11734 1.680049,-0.11734 z"
+         id="path930"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         style="fill:#46b63e;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 56.479476,160.86272 c 0,0 -0.634394,0.16731 -1.531135,0.91281 -0.896742,0.74551 -1.10057,1.01721 -1.10057,1.01721 0,0 0.590841,-0.84931 0.950755,-1.14442 0.305335,-0.25035 1.668425,-0.88181 1.668425,-0.88181 z"
+         id="path932"
+         sodipodi:nodetypes="cscscc"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         style="fill:#317f2c;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 60.632104,162.08352 c 0,0 -0.386432,0.68126 0.502684,1.19605 0.889122,0.51479 2.800697,0.2143 2.800697,0.2143 0,0 -0.53339,-1.49329 -1.697305,-1.91715 -1.163923,-0.42386 -1.606076,0.5068 -1.606076,0.5068 z"
+         id="path934"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         style="fill:#46b63e;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 60.090679,162.25663 c 0,0 0.651547,-0.0769 1.759183,0.28786 1.107625,0.3648 1.396878,0.54286 1.396878,0.54286 0,0 -0.861092,-0.57354 -1.304137,-0.71614 -0.375861,-0.12097 -1.875541,-0.20868 -1.875541,-0.20868 z"
+         id="path936"
+         sodipodi:nodetypes="cscscc"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         style="fill:#389132;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 59.96002,161.40951 c 0,0 -0.308161,0.72006 -1.256239,0.32421 -0.948074,-0.39586 -1.866469,-2.09907 -1.866469,-2.09907 0,0 1.511363,-0.47978 2.553478,0.18983 1.042119,0.66959 0.56923,1.58503 0.56923,1.58503 z"
+         id="path938"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         style="fill:#46b63e;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 60.150117,161.9452 c 0,0 -0.333316,-0.56511 -1.294349,-1.22568 -0.96103,-0.66055 -1.277887,-0.78292 -1.277887,-0.78292 0,0 0.977855,0.33796 1.359622,0.6042 0.323882,0.22586 1.301797,1.36621 1.301797,1.36621 z"
+         id="path940"
+         sodipodi:nodetypes="cscscc"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         style="fill:#389132;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 60.509969,161.45312 c 0,0 0.122825,0.77354 1.138894,0.62141 1.016077,-0.15213 2.322899,-1.57923 2.322899,-1.57923 0,0 -1.348267,-0.83461 -2.522435,-0.44002 -1.174162,0.3946 -0.939358,1.39784 -0.939358,1.39784 z"
+         id="path942"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         style="fill:#46b63e;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 60.194708,161.9261 c 0,0 0.461324,-0.4665 1.554657,-0.87215 1.093327,-0.40564 1.430488,-0.44686 1.430488,-0.44686 0,0 -1.030806,0.0887 -1.466064,0.25357 -0.369255,0.13986 -1.596226,1.00663 -1.596226,1.00663 z"
+         id="path944-6"
+         sodipodi:nodetypes="cscscc"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         style="fill:#327f2c;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 60.597612,158.35654 c 0,0 -0.215153,0.75309 0.770176,1.04405 0.98534,0.29096 2.772407,-0.4512 2.772407,-0.4512 0,0 -0.870005,-1.3257 -2.101,-1.46358 -1.230998,-0.13789 -1.441583,0.87073 -1.441583,0.87073 z"
+         id="path946-0"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         style="fill:#46b63e;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 60.112166,158.65226 c 0,0 0.615121,-0.2282 1.777505,-0.13446 1.162383,0.0937 1.485434,0.19868 1.485434,0.19868 0,0 -0.971934,-0.35466 -1.436103,-0.38892 -0.393782,-0.029 -1.87194,0.2388 -1.87194,0.2388 z"
+         id="path948-5"
+         sodipodi:nodetypes="cscscc"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         style="fill:#3b9935;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 59.142854,158.3376 c 0,0 -0.295225,0.72546 -1.250233,0.34664 -0.955008,-0.37882 -1.903735,-2.06533 -1.903735,-2.06533 0,0 1.502534,-0.50674 2.556465,0.14411 1.053928,0.65084 0.597503,1.57458 0.597503,1.57458 z"
+         id="path950-5"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         style="fill:#46b63e;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 59.342506,158.86981 c 0,0 -0.343376,-0.55905 -1.316072,-1.20231 -0.972698,-0.64326 -1.291693,-0.75994 -1.291693,-0.75994 0,0 0.983744,0.32041 1.370219,0.57977 0.327866,0.22003 1.326028,1.34271 1.326028,1.34271 z"
+         id="path952-9"
+         sodipodi:nodetypes="cscscc"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         style="fill:#389132;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 55.663582,160.38366 c 0,0 0.341906,0.70466 -0.578429,1.16131 -0.920336,0.45665 -2.808674,0.0341 -2.808674,0.0341 0,0 0.628144,-1.45597 1.816874,-1.80423 1.188732,-0.34827 1.570231,0.60885 1.570231,0.60885 z"
+         id="path954-8"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         style="fill:#46b63e;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 56.192781,160.59115 c 0,0 -0.645275,-0.1186 -1.774037,0.17435 -1.128761,0.29295 -1.42885,0.45206 -1.42885,0.45206 0,0 0.896131,-0.51707 1.347423,-0.63094 0.382855,-0.0966 1.885074,-0.0878 1.885074,-0.0878 z"
+         id="path956-6"
+         sodipodi:nodetypes="cscscc"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         style="fill:#32822d;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 56.157912,159.93188 c 0,0 -0.563293,0.5442 -1.283647,-0.18835 -0.720354,-0.73256 -0.906323,-2.65865 -0.906323,-2.65865 0,0 1.579142,0.14392 2.280008,1.16527 0.700865,1.02135 -0.09004,1.68173 -0.09004,1.68173 z"
+         id="path958-2"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         style="fill:#46b63e;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 56.125382,160.49938 c 0,0 -0.08807,-0.65015 -0.717701,-1.63172 -0.629632,-0.98157 -0.874232,-1.21725 -0.874232,-1.21725 0,0 0.770251,0.69075 1.018889,1.0842 0.210932,0.3338 0.670053,1.76416 0.670053,1.76416 z"
+         id="path960"
+         sodipodi:nodetypes="cscscc"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         style="fill:#389132;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 59.926116,157.80662 c 0,0 0.570185,0.53697 1.281131,-0.20471 0.710956,-0.7417 0.872339,-2.67 0.872339,-2.67 0,0 -1.577184,0.16406 -2.264958,1.19427 -0.687776,1.03021 0.111488,1.68044 0.111488,1.68044 z"
+         id="path962"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         style="fill:#46b63e;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 59.965885,158.37366 c 0,0 0.07979,-0.65123 0.696823,-1.64075 0.617058,-0.98952 0.858626,-1.2283 0.858626,-1.2283 0,0 -0.761373,0.70052 -1.004967,1.09711 -0.206661,0.33646 -0.647491,1.77257 -0.647491,1.77257 z"
+         id="path964"
+         sodipodi:nodetypes="cscscc"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         id="path1021"
+         style="fill:#27bbd7;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 55.237294,164.87048 v 1.53314 c 0,1.53348 0.881023,4.82904 0.881023,4.82904 h 2.120723 2.12072 c 0,0 0.88102,-3.29556 0.88102,-4.82904 v -1.53314 h -3.00174 z"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Corridor.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="Icon_LampE27.svg"
+   inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Icon_Icons\Icon_LampE27.png"
+   inkscape:export-xdpi="384"
+   inkscape:export-ydpi="384">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.787766"
+     inkscape:cx="8.3425985"
+     inkscape:cy="36.92522"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     showguides="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-7"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:snap-page="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1010" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path835"
+       style="fill:#ffffff;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+       d="M 6.3460269,2.4152959e-6 A 4.1719475,4.1719475 0 0 0 3.3999969,1.2220491 a 4.1719475,4.1719475 0 0 0 0,5.9000046 3.3897074,3.3897074 0 0 1 0.992875,2.3968327 0.7822401,0.78224014 0 0 0 0.229172,0.5530686 0.7822401,0.78224014 0 0 0 0.553068,0.229171 h 2.349776 a 0.7822401,0.78224014 0 0 0 0.553273,-0.229171 0.7822401,0.78224014 0 0 0 0.228967,-0.5530686 3.3897074,3.3897074 0 0 1 0.992875,-2.3968327 4.1719475,4.1719475 0 0 0 0,-5.9000046 A 4.1719475,4.1719475 0 0 0 6.3460269,2.4152959e-6 Z M 6.3376269,0.78224249 a 3.3897074,3.3897074 0 0 1 2.409258,0.99287481 3.3897074,3.3897074 0 0 1 0,4.7938694 4.1719475,4.1719475 0 0 0 -1.222046,2.9498997 h -2.349729 a 4.1719475,4.1719475 0 0 0 -1.222047,-2.9498997 3.3897074,3.3897074 0 0 1 0,-4.7938694 3.3897074,3.3897074 0 0 1 2.384611,-0.99287481 z M 4.7811399,10.718321 a 0.39111998,0.39111995 0 0 0 -0.388268,0.39112 0.39111998,0.39111995 0 0 0 0.39112,0.391121 h 3.132017 a 0.39111998,0.39111995 0 0 0 0.391119,-0.391121 0.39111998,0.39111995 0 0 0 -0.391119,-0.39112 h -3.132017 a 0.39111998,0.39111995 0 0 0 -0.0028,0 z m 0,1.199435 a 0.39111998,0.39111995 0 0 0 -0.388268,0.39112 0.39111998,0.39111995 0 0 0 0.39112,0.39112 0.39111998,0.39111995 0 0 0 0.0031,0 h 3.12896 a 0.39111998,0.39111995 0 0 0 0.39112,-0.39112 0.39111998,0.39111995 0 0 0 -0.39112,-0.39112 h -3.132016 a 0.39111998,0.39111995 0 0 0 -0.0028,0 z"
+       inkscape:export-xdpi="384"
+       inkscape:export-ydpi="384" />
+  </g>
+</svg>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="Icon_Toggle_Switch.svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect883"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="5"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect867"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,2.38125,0,1 @ F,0,0,1,0,2.38125,0,1 @ F,0,0,1,0,2.38125,0,1 @ F,0,0,1,0,2.38125,0,1 @ F,0,0,1,0,2.38125,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="9"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.919596"
+     inkscape:cx="19.942111"
+     inkscape:cy="13.124082"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-7"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:snap-page="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect839"
+       style="fill:#ffffff;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+       d="m 3.1527303,4.2957298 a 0.37577756,0.28737139 0 0 0 -0.36629,0.287356 v 1.586805 0.439897 0.198157 0.04959 0.04959 a 0.24793827,0.24793827 0 0 0 0.247841,0.247938 h 6.636901 a 0.24793827,0.24793827 0 0 0 0.247938,-0.247938 v -0.04959 -0.04959 -0.386339 -0.251231 a 0.58358529,0.44628986 0 0 0 0,-4.84e-4 v -1.586805 a 0.37577766,0.28737147 0 0 0 -0.531324,-0.261594 l -2.503789,0.870302 a 1.2838846,0.98183538 0 0 1 -1.062454,0 l -2.503886,-0.870302 a 0.37577756,0.28737139 0 0 0 -0.152637,-0.02576 0.37577756,0.28737139 0 0 0 -0.0122,0 z m -2.35977202,1.429519 a 0.79340245,0.79340245 0 0 0 -0.787398,0.793402 v 2.115708 a 0.79340245,0.79340245 0 0 0 0.793403,0.793402 H 11.906597 A 0.79340245,0.79340245 0 0 0 12.7,8.6343588 v -2.115708 a 0.79340245,0.79340245 0 0 0 -0.793403,-0.793402 h -1.058774 -0.595149 -0.0073 v 0.616165 a 0.63696987,0.48711505 0 0 1 0,4.84e-4 v 0.274282 0.421592 0.05414 0.05414 a 0.27061889,0.27061889 0 0 1 -0.2706017,0.270602 h -7.244059 a 0.27061889,0.27061889 0 0 1 -0.270601,-0.270602 v -0.05414 -0.05414 -0.216268 -0.48009 -0.616165 h -0.0073 -0.331617 -1.32230502 a 0.79340245,0.79340245 0 0 0 -0.006,0 z" />
+  </g>
+</svg>

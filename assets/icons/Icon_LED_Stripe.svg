@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Icon_LED_Stripe.svg"
+   inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Icon_Icons\Icon_LED_Stripe.png"
+   inkscape:export-xdpi="384"
+   inkscape:export-ydpi="384"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="82.384711"
+     inkscape:cy="54.922607"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-7"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:snap-page="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="circle894"
+       style="fill:#ffffff;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+       d="M 0.7376801,5.0000002e-7 A 0.73837205,0.73837205 0 0 0 5.0000015e-7,0.7383727 0.73837205,0.73837205 0 0 0 0.7383724,1.4767448 h 8.417442 a 2.0674417,2.0674417 0 0 1 2.0674416,2.067442 2.0674417,2.0674417 0 0 1 -2.0674416,2.067442 H 3.5441864 A 3.5441856,3.5441856 0 0 0 5.0000015e-7,9.1558148 3.5441856,3.5441856 0 0 0 3.5441864,12.700001 H 11.962436 A 0.73837205,0.73837205 0 0 0 12.7,11.961629 0.73837205,0.73837205 0 0 0 11.962551,11.223257 H 3.5441864 A 2.0674417,2.0674417 0 0 1 1.4767446,9.1558148 2.0674417,2.0674417 0 0 1 3.5441864,7.0883728 h 5.611628 A 3.5441856,3.5441856 0 0 0 12.7,3.5441868 3.5441856,3.5441856 0 0 0 9.1558144,5.0000002e-7 h -8.417442 a 0.73837205,0.73837205 0 0 0 -6.938e-4,0 z" />
+  </g>
+</svg>

@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="1024"
+   viewBox="0 0 270.93333 270.93333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="Icon_Workshop.svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1004"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1.5875,0,1 @ F,0,0,1,0,1.5875,0,1 @ F,0,0,1,0,1.5875,0,1 @ F,0,0,1,0,1.5875,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="6"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="494.13894"
+     inkscape:cy="493.86199"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-7"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g106"
+       transform="matrix(5.1579784,0,0,5.1579784,107.89525,88.939909)">
+      <rect
+         style="fill:#797979;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect971"
+         width="0.89812708"
+         height="0.99383152"
+         x="-7.4738622"
+         y="-3.1418943"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Workshop.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         id="rect932"
+         style="fill:#3ab8bb;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         d="m -16.220487,-13.429895 a 1.6490194,1.6490194 0 0 0 -1.64902,1.649019 v 9.4229814 h 0.471149 v -9.4229814 a 1.1778711,1.1778711 0 0 1 1.177871,-1.177872 h 5.977695 a 1.1778711,1.1778711 0 0 1 1.1778698,1.177872 v 1.513286 h 0.47115 v -1.513286 a 1.6490194,1.6490194 0 0 0 -1.6490198,-1.649019 z"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Workshop.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         id="rect890"
+         style="fill:#71472d;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         d="m -17.697062,9.3706954 v 2.3557406 h 2.826892 v 23.557429 h 2.355742 V 11.726436 h 36.749587 v 23.557429 h 2.355749 V 11.726436 h 2.826891 V 9.3706954 Z"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Workshop.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         id="rect904"
+         style="fill:#b2b2b2;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         d="m -15.698361,-9.3629895 v 2.3557449 5.65378 h -0.942296 v 2.35575 h 0.942296 v 3.29804 4.58128 h 14.1344588 v -4.58128 -11.30757 -2.3557449 z m 1.413446,2.3557449 h 11.3075628 v 11.30757 H -14.284915 Z"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Workshop.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         id="rect914"
+         style="fill:#949494;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         d="m -12.164651,-11.71876 -2.355743,2.3557406 h 2.355743 7.0672288 2.35574 l -2.35574,-2.3557406 z"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Workshop.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#232323;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect926"
+         width="0.48117298"
+         height="7.0672283"
+         x="-17.121635"
+         y="-2.9467039"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Workshop.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#3ab8bb;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect928"
+         width="2.1201677"
+         height="5.8893566"
+         x="-19.241808"
+         y="-2.3577757"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Workshop.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#232323;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect930"
+         width="0.48117298"
+         height="7.0672283"
+         x="-19.722979"
+         y="-2.9467039"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Workshop.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#cfcfcf;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect959"
+         width="1.2237756"
+         height="0.54590935"
+         x="-9.4737034"
+         y="-12.264445"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Workshop.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#4d4d4d;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect961"
+         width="10.600842"
+         height="0.47114769"
+         x="-13.931359"
+         y="3.8293648"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Workshop.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         id="rect963"
+         style="fill:#3ab8bb;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         d="M -8.7226022,-0.79031459 V 1.2290954 h -2.6133968 v 2.60006 h 5.8612868 v -2.60006 -2.01940999 z"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Workshop.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#797979;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect967"
+         width="11.307551"
+         height="0.67727619"
+         x="-14.284715"
+         y="-4.6915236"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Workshop.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#505050;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect969"
+         width="2.3704662"
+         height="2.7385511"
+         x="-8.2100306"
+         y="-5.3835239"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Workshop.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         sodipodi:type="star"
+         style="fill:#666666;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="path973"
+         sodipodi:sides="3"
+         sodipodi:cx="-97.449348"
+         sodipodi:cy="-100.52099"
+         sodipodi:r1="1.0087203"
+         sodipodi:r2="0.5043602"
+         sodipodi:arg1="0"
+         sodipodi:arg2="1.0471976"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m -96.440628,-100.52099 -1.513081,0.873579 v -1.747159 z"
+         inkscape:transform-center-y="0.22452812"
+         transform="matrix(0,0.89035956,-0.89035956,0,-96.524617,85.065966)"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Workshop.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#5a5a5a;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect989"
+         width="3.3207195"
+         height="0.48912272"
+         x="-14.438035"
+         y="8.881567"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Workshop.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#5a5a5a;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect991"
+         width="3.3207195"
+         height="0.48912272"
+         x="-6.1447616"
+         y="8.881567"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Workshop.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         id="rect995"
+         style="fill:#888888;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         d="M -14.755972,-7.4784145 V 4.7714454 H -2.5061022 V -7.4784145 Z m 0.471152,0.4711499 h 11.3075778 v 11.30756 H -14.28482 Z"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Workshop.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         style="fill:#9f633f;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect1000"
+         width="23.557428"
+         height="7.0672283"
+         x="4.7787423"
+         y="-12.889734"
+         inkscape:path-effect="#path-effect1004"
+         sodipodi:type="rect"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Workshop.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384"
+         d="m 6.3662423,-12.889734 20.3824287,0 a 1.5875,1.5875 45 0 1 1.5875,1.5875 v 3.892228 a 1.5875,1.5875 135 0 1 -1.5875,1.5875 l -20.3824287,0 a 1.5875,1.5875 45 0 1 -1.5875,-1.5875 v -3.892228 a 1.5875,1.5875 135 0 1 1.5875,-1.5875 z" />
+      <rect
+         style="fill:#ff7f2a;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect1021"
+         width="1.1035671"
+         height="2.6860411"
+         x="6.8330007"
+         y="-10.699138"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Workshop.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#ff7f2a;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect1025"
+         width="1.1035671"
+         height="2.6860411"
+         x="-21.695574"
+         y="-10.699138"
+         transform="scale(-1,1)"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Workshop.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#c89172;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect1033"
+         width="1.4134449"
+         height="9.1073637"
+         x="6.6780572"
+         y="-14.074946"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Workshop.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         id="rect1035"
+         style="fill:#202020;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         d="m 5.8743878,-16.430698 -1.35331,1.649027 v 0.706723 h 1.35331 4.3740922 v -2.35575 z"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Workshop.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#ba2828;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect915"
+         width="1.7074058"
+         height="4.4559126"
+         x="11.117411"
+         y="-15.155063"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Workshop.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         id="rect917"
+         style="fill:#9c9c9c;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         d="m 11.617529,-10.699079 v 6.3715444 l 0.353359,0.90549 0.35337,-0.90549 v -6.3715444 z"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Workshop.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#28b5ba;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect927"
+         width="1.7074058"
+         height="4.4559126"
+         x="15.703733"
+         y="-15.155055"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Workshop.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         id="rect929"
+         style="fill:#9c9c9c;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         d="m 16.203869,-10.699079 v 6.3715444 l 0.353359,0.90549 0.353359,-0.90549 v -6.3715444 z"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Workshop.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <g
+         id="g1102"
+         transform="matrix(0.89035956,0,0,0.89035956,-95.778121,-95.361358)"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Workshop.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384">
+        <path
+           id="rect1056"
+           style="fill:#00c817;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+           d="m 513.14062,331.60742 v 5.1543 2.49805 a 1.2906881,1.2885627 0 0 0 0.56055,1.05859 1.2906881,1.2885627 0 0 0 0.004,0.004 l 2.96484,1.91015 -2.73242,2.14063 a 1.2906876,1.2885617 0 0 0 -0.48438,1.0039 v 39.53321 a 1.2906876,1.2885617 0 0 0 0,0.0215 1.2906876,1.2885617 0 0 0 0.56055,1.06445 l 15.52539,12.1543 a 1.2906876,1.2885617 0 0 0 0.97461,0.44336 h 1.29102 a 1.2906876,1.2885617 0 0 0 1.29101,-1.28906 v -2.57617 h -2.58203 l -13.18945,-10.34961 v -2.02344 -34.40235 -2.02343 l 13.18945,-10.34766 h 2.58203 v -2.55469 a 1.2906876,1.2885617 0 0 0 0,-0.0234 1.2906876,1.2885617 0 0 0 -1.26758,-1.28907 1.2906876,1.2885617 0 0 0 -0.0234,0 h -0.34766 -0.16015 l -2.66797,-0.10742 z m 1.72071,1.71875 h 12.04687 v 0.89649 l -3.24609,2.53906 h -8.80078 z"
+           transform="scale(0.26458333)" />
+        <path
+           id="rect947"
+           style="fill:#717171;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+           d="m 141.04838,88.789188 0.68299,0.48743 -0.68299,0.486539 0.68299,0.487425 -0.68299,0.487429 0.68299,0.486539 -0.68299,0.48743 0.68299,0.486539 -0.68299,0.487429 0.68299,0.487425 -0.68299,0.486539 0.68299,0.48743 -0.68299,0.487425 0.68299,0.486543 -0.68299,0.487425 0.68299,0.486544 -0.68299,0.487425 v 0.06215 l 0.68299,0.487429 -0.68299,0.486539 0.68299,0.487425 -0.68299,0.486544 0.68299,0.487425 -0.68299,0.487429 0.68299,0.486535 -0.68299,0.48743 0.68299,0.48654 -0.68299,0.48743 0.68299,0.48743 -0.68299,0.48654 0.68299,0.48743 -0.68299,0.48653 0.68299,0.48743 -0.68299,0.48743 h -0.45533 V 88.789188 Z" />
+      </g>
+      <path
+         id="rect1105"
+         style="fill:#a5a5a5;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         d="m 20.04177,-14.817606 a 1.9184797,1.9184796 0 0 0 -0.816462,1.570381 1.9184797,1.9184796 0 0 0 1.07914,1.725137 v 3.9842234 a 1.9184797,1.9184796 0 0 0 -1.07914,1.72475 1.9184797,1.9184796 0 0 0 1.91847,1.91848 1.9184797,1.9184796 0 0 0 1.91848,-1.91848 1.9184797,1.9184796 0 0 0 -1.07915,-1.7251299 v -3.9842275 a 1.9184797,1.9184796 0 0 0 1.07915,-1.724753 1.9184797,1.9184796 0 0 0 -0.81236,-1.567382 v 0.927388 1.275117 l -1.10425,0.637373 -1.103878,-0.637373 v -1.275117 z m 0.478499,7.9302314 h 1.275109 l 0.637381,1.10423 -0.637381,1.10425 h -1.275109 l -0.63736,-1.10425 z"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Workshop.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+    </g>
+  </g>
+</svg>

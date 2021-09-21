@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="1024"
+   viewBox="0 0 270.93333 270.93333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="Icon_Bedroom_Teenager.svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect994"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0.79375,0,1 @ F,0,0,1,0,0.79375,0,1 @ F,0,0,1,0,0.79375,0,1 @ F,0,0,1,0,0.79375,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="3"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="234.92444"
+     inkscape:cy="521.14534"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:snap-page="true"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:window-width="1254"
+     inkscape:window-height="1040"
+     inkscape:window-x="2204"
+     inkscape:window-y="56"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g150"
+       transform="matrix(21.333332,0,0,21.333332,88.712248,-76.164218)">
+      <path
+         style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 2.6037611,6.6500709 1.9383851,7.7851726 1.2880471,6.6413919 Z"
+         id="path993" />
+      <path
+         style="fill:#31bace;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 2.4920011,6.7107379 1.9392541,7.6536993 1.3989961,6.7035269 Z"
+         id="path995" />
+      <path
+         id="path980"
+         style="fill:#785331;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         d="m 1.3624951,9.4548044 a 2.675177,0.99895837 0 0 0 -2.637481,0.9989426 h -0.823289 v 3.063809 H 4.8986442 V 10.453747 H 4.0753587 a 2.675177,0.99895837 0 0 0 -2.6750796,-0.9989426 2.675177,0.99895837 0 0 0 -0.03778,0 z" />
+      <rect
+         style="fill:#c88a56;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect982"
+         width="2.9543478"
+         height="3.3482614"
+         x="5.2517991"
+         y="12.104924" />
+      <rect
+         style="fill:#9b6b3f;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect984"
+         width="2.4004083"
+         height="1.3540765"
+         x="-7.9291768"
+         y="12.498828"
+         transform="scale(-1,1)"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Bedroom.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#9b6b3f;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect986"
+         width="2.4004083"
+         height="1.3540765"
+         x="-7.9291768"
+         y="14.09911"
+         transform="scale(-1,1)"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Bedroom.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#785331;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect988"
+         width="0.86024153"
+         height="0.81701177"
+         x="-1.97732"
+         y="15.453186"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Bedroom.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         id="path990"
+         style="fill:#8f633a;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         d="m 1.3663511,9.8697048 a 2.4020333,0.89696173 0 0 0 -2.368183,0.8969472 h -0.73923 v 2.750982 H 4.5414575 V 10.766652 H 3.8022241 a 2.4020333,0.89696173 0 0 0 -2.401942,-0.8969472 2.4020333,0.89696173 0 0 0 -0.03392,0 z" />
+      <path
+         style="fill:#ffe6d5;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="path992"
+         width="3.8710904"
+         height="1.9355445"
+         x="-0.53534353"
+         y="11.577725"
+         inkscape:path-effect="#path-effect994"
+         sodipodi:type="rect"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Bedroom.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384"
+         d="M 0.25840647,11.577725 H 2.5419969 a 0.79375,0.79375 45 0 1 0.79375,0.79375 v 0.348045 a 0.79375,0.79375 135 0 1 -0.79375,0.79375 H 0.25840647 a 0.79375,0.79375 45 0 1 -0.79375,-0.79375 v -0.348045 a 0.79375,0.79375 135 0 1 0.79375,-0.79375 z" />
+      <path
+         id="path996"
+         style="fill:#34bc36;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         d="m -1.5702629,12.545485 a 0.54008335,0.54008335 0 0 0 -0.540086,0.540082 v 0.432067 H 4.9107449 V 13.085567 A 0.5400834,0.5400834 0 0 0 4.3706596,12.545485 Z"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Bedroom.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#785331;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect998"
+         width="3.3482618"
+         height="0.30774462"
+         x="5.0548396"
+         y="11.944888"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Bedroom.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         id="path1000"
+         style="fill:#707070;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         d="m 6.5643596,10.034478 v 1.285461 A 1.0469753,0.49247971 0 0 0 5.6820034,11.80627 v 0.13862 h 2.0939512 v -0.13862 a 1.0469753,0.49247971 0 0 0 -0.912456,-0.488381 v -1.283411 z"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Bedroom.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         id="path1002"
+         style="fill:#34bc36;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         d="M 5.3003505,8.2815278 H 8.1275086 V 10.236807 H 5.3003505 Z"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Bedroom.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         id="path1004"
+         style="fill:#60d461;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         d="m 5.3003505,10.034478 h 2.8271581 v 0.202329 H 5.3003505 Z"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Bedroom.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <path
+         id="path1006"
+         style="fill:#60d461;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         d="M 5.3003505,8.2815278 H 8.1275086 V 8.4838574 H 5.3003505 Z"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Bedroom.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#6a492b;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect1008"
+         width="0.7598033"
+         height="0.22483979"
+         x="6.3490748"
+         y="14.323952"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Bedroom.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#6a492b;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect1011"
+         width="0.7598033"
+         height="0.22483979"
+         x="6.3490748"
+         y="12.72366"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Bedroom.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#785331;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect1013"
+         width="7.7032018"
+         height="1.9355446"
+         x="-2.4514067"
+         y="13.517645"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Bedroom.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#785331;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect1015"
+         width="0.86024153"
+         height="0.81701177"
+         x="3.91748"
+         y="15.453186"
+         inkscape:export-filename="C:\Users\Kevin Mudczinski\OneDrive\Smart_Home\Images\Room_Icons_2\Icon_Bedroom.png"
+         inkscape:export-xdpi="384"
+         inkscape:export-ydpi="384" />
+      <rect
+         style="fill:#60d461;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect923"
+         width="1.8655883"
+         height="3.6100342"
+         x="-3.90119"
+         y="4.3091645" />
+      <ellipse
+         style="fill:#60d461;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="path925"
+         cx="-2.9683993"
+         cy="4.3091645"
+         rx="0.93279392"
+         ry="0.73896629" />
+      <ellipse
+         style="fill:#60d461;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="ellipse927"
+         cx="-2.9683993"
+         cy="7.9192014"
+         rx="0.93279392"
+         ry="0.73896629" />
+      <rect
+         style="fill:#8f8f8f;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect929"
+         width="0.35977367"
+         height="0.42830196"
+         x="-3.1482832"
+         y="4.3091645" />
+      <rect
+         style="fill:#8f8f8f;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect931"
+         width="0.35977367"
+         height="0.42830196"
+         x="-3.1482832"
+         y="7.4909034" />
+      <rect
+         style="fill:#a3a3a3;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect933"
+         width="2.1029627"
+         height="0.16275468"
+         x="-4.019875"
+         y="4.4419379" />
+      <rect
+         style="fill:#a3a3a3;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect935"
+         width="2.1029627"
+         height="0.16275468"
+         x="-4.019875"
+         y="7.6236768" />
+      <rect
+         style="fill:#dddddd;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect937"
+         width="0.49062538"
+         height="0.40279743"
+         x="-4.019875"
+         y="4.3219161" />
+      <rect
+         style="fill:#dddddd;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect941"
+         width="0.49062538"
+         height="0.40279743"
+         x="-2.4075415"
+         y="4.3219161" />
+      <rect
+         style="fill:#dddddd;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect943"
+         width="0.49062538"
+         height="0.40279743"
+         x="-2.4075415"
+         y="7.5036511" />
+      <rect
+         style="fill:#dddddd;fill-opacity:1;stroke:#1b1f37;stroke-width:0;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect945"
+         width="0.49062538"
+         height="0.40279743"
+         x="-4.019875"
+         y="7.5036511" />
+      <path
+         style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 0.63016115,7.7830178 1.2880341,6.6435489 1.9459041,7.7830178 Z"
+         id="path963" />
+      <path
+         style="fill:#31ccce;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 0.74152015,7.7216154 1.2880341,6.7750279 1.8345481,7.7216154 Z"
+         id="path965" />
+      <path
+         style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1.9459041,7.7830178 0.657874,-1.1394689 0.65787,1.1394689 z"
+         id="path976" />
+      <path
+         style="fill:#319dce;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 2.0572641,7.7216154 0.546514,-0.9465875 0.546514,0.9465875 z"
+         id="path978" />
+      <path
+         style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -0.68556985,7.7830149 0.657874,-1.139466 0.65787,1.139466 z"
+         id="path989" />
+      <path
+         style="fill:#31ce87;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -0.57420985,7.7216128 0.546514,-0.9465849 0.546514,0.9465849 z"
+         id="path991" />
+      <path
+         style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 0.63016115,7.7830178 -0.665376,1.1350988 -0.650338,-1.1437806 z"
+         id="path1005" />
+      <path
+         style="fill:#31ce33;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 0.51840015,7.8436845 -0.552747,0.9429588 -0.540258,-0.9501691 z"
+         id="path1007" />
+      <path
+         style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 2.6037611,6.6500709 0.657874,-1.139466 0.6578704,1.139466 z"
+         id="path1011" />
+      <path
+         style="fill:#3154ce;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 2.7151211,6.5886689 0.546514,-0.946585 0.546513,0.946585 z"
+         id="path1013" />
+      <path
+         style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 3.9194917,6.6587549 3.2541161,7.7938515 2.6037781,6.6500739 Z"
+         id="path1017" />
+      <path
+         style="fill:#3180ce;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 3.8077311,6.7194189 3.2549841,7.6623782 2.7147261,6.7122089 Z"
+         id="path1019" />
+      <path
+         style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 1.2880181,6.6500709 0.62264215,7.7851726 -0.02769585,6.6413919 Z"
+         id="path1023" />
+      <path
+         style="fill:#31ceb3;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 1.1762571,6.7107379 0.62351015,7.6536993 0.08325215,6.7035269 Z"
+         id="path1025" />
+    </g>
+  </g>
+</svg>
