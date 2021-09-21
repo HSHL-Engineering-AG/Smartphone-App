@@ -2,9 +2,7 @@ import 'package:flutter/material.dart';
 //NAVIGATOR LÄUFT NICHT
 //pages
 import 'Settings/SettingsPage.dart';
-import 'Dashboard/DashboardPage.dart';
 import 'Room/RoomPage.dart';
-import 'Security/SecurityPage.dart';
 import 'Music/MusicPage.dart';
 
 // WeatherPage(),
@@ -32,14 +30,12 @@ class MyStatefulWidget extends StatefulWidget {
 }
 
 class _MyStatefulWidgetState extends State<MyStatefulWidget> {
-  int _selectedIndex = 2; //normal 2
+  int _selectedIndex = 1;
   final GlobalKey<ScaffoldState> _scaffoldKey = GlobalKey<ScaffoldState>();
 
   static const List _widgetOptions = [
     SettingsPage(),
-    DashboardPage(),
     RoomPage(),
-    SecurityPage(),
     MusicPage(),
   ];
 
@@ -67,7 +63,7 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
           selectedFontSize: 16,
           selectedItemColor: Color.fromARGB(255, 200, 200, 200),
           unselectedItemColor: Color.fromARGB(255, 50, 60, 86),
-          //backgroundColor: Colors.blue,
+          backgroundColor: Color.fromARGB(255, 15, 16, 23),
           items: const <BottomNavigationBarItem>[
             BottomNavigationBarItem(
               icon: Icon(Icons.precision_manufacturing),
@@ -75,18 +71,8 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
               backgroundColor: Color.fromARGB(255, 15, 16, 23),
             ),
             BottomNavigationBarItem(
-              icon: Icon(Icons.dashboard_outlined),
-              label: 'Dashboard',
-              backgroundColor: Color.fromARGB(255, 15, 16, 23),
-            ),
-            BottomNavigationBarItem(
               icon: Icon(Icons.home),
               label: 'Room',
-              backgroundColor: Color.fromARGB(255, 15, 16, 23),
-            ),
-            BottomNavigationBarItem(
-              icon: Icon(Icons.https_rounded),
-              label: 'Security',
               backgroundColor: Color.fromARGB(255, 15, 16, 23),
             ),
             BottomNavigationBarItem(
