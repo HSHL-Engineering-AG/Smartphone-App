@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       debugShowCheckedModeBanner: false,
-      home: MyStatefulWidget(),
+      home: MainPage(),
     );
   }
 }

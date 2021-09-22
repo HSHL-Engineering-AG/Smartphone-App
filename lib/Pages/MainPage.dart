@@ -4,14 +4,14 @@ import '../Settings/SettingsPage.dart';
 import '../Room/RoomPage.dart';
 import '../Music/MusicPage.dart';
 
-class MyStatefulWidget extends StatefulWidget {
-  const MyStatefulWidget({Key? key}) : super(key: key);
+class MainPage extends StatefulWidget {
+  const MainPage({Key? key}) : super(key: key);
 
   @override
-  _MyStatefulWidgetState createState() => _MyStatefulWidgetState();
+  _MainPageState createState() => _MainPageState();
 }
 
-class _MyStatefulWidgetState extends State<MyStatefulWidget> {
+class _MainPageState extends State<MainPage> {
   int _selectedIndex = 1;
   final GlobalKey<ScaffoldState> _scaffoldKey = GlobalKey<ScaffoldState>();
 
