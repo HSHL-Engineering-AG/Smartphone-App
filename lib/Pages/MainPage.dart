@@ -13,7 +13,6 @@ class MainPage extends StatefulWidget {
 
 class _MainPageState extends State<MainPage> {
   int _selectedIndex = 1;
-  final GlobalKey<ScaffoldState> _scaffoldKey = GlobalKey<ScaffoldState>();
 
   static const List _widgetOptions = [
     SettingsPage(),
@@ -30,8 +29,6 @@ class _MainPageState extends State<MainPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-        //drawerEnableOpenDragGesture: false,
-        key: _scaffoldKey,
         body: Container(
           width: double.infinity,
           height: double.infinity,
