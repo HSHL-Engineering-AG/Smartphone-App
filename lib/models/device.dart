@@ -1,4 +1,5 @@
 import 'package:hive/hive.dart';
+part 'device.g.dart';
 
 @HiveType(typeId: 0)
 
@@ -45,6 +46,9 @@ class Device{
   @HiveField(13)
   double lix = 0; //Light Index
 
+  @HiveField(14)
+  String id;
+
   Device({
     required this.deviceName,
     required this.deviceType,
@@ -60,5 +64,7 @@ class Device{
     required this.zkd,
     required this.tmp,
     required this.lix,
+    required this.id
   });
 }
+//flutter packages pub run build_runner build

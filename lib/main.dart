@@ -1,13 +1,20 @@
 import 'package:flutter/material.dart';
+import 'package:hive/hive.dart';
+import 'package:hive_flutter/hive_flutter.dart';
 //NAVIGATOR LÄUFT NICHT
 //pages
 import './Pages/MainPage.dart';
+import './models/room.dart';
+import './models/device.dart';
 
 // WeatherPage(),
 // WindowsPage(), --> Into Dashboard
 // ClimatePage(),
 
-void main() {
+void main() async{
+  await Hive.initFlutter();
+  await Hive.openBox<Room>("rooms");
+  await Hive.openBox<Device>("devices");
   runApp(MyApp());
 }
 
